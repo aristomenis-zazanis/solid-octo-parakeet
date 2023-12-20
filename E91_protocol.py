@@ -6,7 +6,6 @@ Created on Wed Dec 20 14:34:44 2023
 """
 
 import numpy as np
-import numpy as np
 from qiskit import QuantumCircuit, Aer, execute
 from qiskit.quantum_info import state_fidelity
 
